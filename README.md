@@ -3,7 +3,7 @@ Sends a welcome and leave message for a discord server
 
 <p align="center">
 
-  <img width="400" height="400" src="https://media.discordapp.net/attachments/824690852373725244/891090858517078076/discord-1.png">
+  <img width="400" height="300" src="https://media.discordapp.net/attachments/824690852373725244/891090858517078076/discord-1.png">
 
 </p>
 
