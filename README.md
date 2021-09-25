@@ -3,7 +3,7 @@ Sends a welcome and leave message for a discord server
 
 <p align="center">
 
-  <img width="460" height="400" src="https://media.discordapp.net/attachments/824690852373725244/891090858517078076/discord-1.png">
+  <img width="400" height="400" src="https://media.discordapp.net/attachments/824690852373725244/891090858517078076/discord-1.png">
 
 </p>
 
@@ -31,5 +31,8 @@ Name | Meaning
 `leave_channel_id` | The ID of your leave channel
 `token` | Your Bot token
 
+## Donation
 
-  My discord server [Join now](https://discord.gg/d7m5zUQrd8)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=L2LDVP4DAMSBG)
+
+My discord server [Join now](https://discord.gg/d7m5zUQrd8)
